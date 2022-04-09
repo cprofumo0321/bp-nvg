@@ -1,2 +1,2 @@
 # Introduction
-Hello welcome to my project
+Hello, Welcome to the BPNVG project guide! This guide was created to put all information needed to make the panoramic BPNVGs into one place instead of having it spread across a discord and many people's minds. I want to mention that I have nothing to do with the designing, prototyping, etc. of the BPNVGs. This is only a guide to thoroughly take people through the process of creating the night vision.  
